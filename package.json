@@ -1,0 +1,26 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "description": "The name of this repo is self-explanatory. This was originally just a simple script, but I'm putting it on here so it's easier to deploy, as I'm running it off of fly.io from now on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousefamar/cors-proxy.git"
+  },
+  "keywords": [
+    "cors",
+    "proxy"
+  ],
+  "author": "Yousef Amar <yousef@amar.io> (http://yousefamar.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yousefamar/cors-proxy/issues"
+  },
+  "homepage": "https://github.com/yousefamar/cors-proxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
