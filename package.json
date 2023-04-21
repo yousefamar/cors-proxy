@@ -4,7 +4,8 @@
   "description": "The name of this repo is self-explanatory. This was originally just a simple script, but I'm putting it on here so it's easier to deploy, as I'm running it off of fly.io from now on.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
